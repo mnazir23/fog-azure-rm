@@ -35,4 +35,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'azure-storage', '= 0.11.5.preview'
   spec.add_dependency 'vhd', '0.0.4'
   spec.add_dependency 'mime-types', '~> 1.25'
+  spec.add_dependency 'bundler', '~> 1.1.0'
 end
